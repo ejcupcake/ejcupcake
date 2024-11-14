@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 I’m currently learning web development
+- ⚡ Fun fact: Extroverted-Introvert life is _not_ fun.
 
 <!--
 **ejcupcake/ejcupcake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

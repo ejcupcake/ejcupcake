@@ -1,7 +1,9 @@
+![macOS]
 ## Hi there 👋
 - 🔭 I’m currently working on "BookTok"
 - 🌱 I’m currently learning web development
 - ⚡ Fun fact: Extroverted-Introvert life is _not_ fun.
+![ejcupcake's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejcupcake&show_icons=true&theme=transparent&border_radius=0&text_color=fff&title_color=0969da)
 
 <!--
 **ejcupcake/ejcupcake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

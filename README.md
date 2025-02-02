@@ -1,4 +1,3 @@
-![macOS]
 ## Hi there 👋
 - 🔭 I’m currently working on "BookTok"
 - 🌱 I’m currently learning web development

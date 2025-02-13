@@ -2,7 +2,12 @@
 - 🔭 I’m currently working on "BookTok"
 - 🌱 I’m currently learning web development
 - ⚡ Fun fact: Extroverted-Introvert life is _not_ fun.
+
+<a href='https://certificates.airdata.com/yDoCzU'><img alt='Airdata UAV|Drone Safety Verified Badge' src='https://certificates.airdata.com/badge?i=yDoCzU&r=BQcq&t=5&m=3&size=7&c=0' style='width:248px;height:65px;border:0;image-rendering: optimizequality;image-rendering: smooth;'></a>
+
 ![ejcupcake's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejcupcake&show_icons=true&theme=transparent&border_radius=0&text_color=fff&title_color=0969da)
+
+
 
 <!--
 **ejcupcake/ejcupcake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

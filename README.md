@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 - 🔭 I’m currently working on "BookTok"
 - 🌱 I’m currently learning web development
 - ⚡ Fun fact: Extroverted-Introvert life is _not_ fun.
